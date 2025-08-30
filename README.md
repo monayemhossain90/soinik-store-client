@@ -1,1 +1,0 @@
-# soinik-store-front
